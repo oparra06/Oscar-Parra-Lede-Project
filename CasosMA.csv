@@ -1,0 +1,765 @@
+ID_Caso,ID_Caso_Relacionado,anho,mes,dia,DANE_municipio,Municipio,Departamento,Region,Modalidad,Presunto_Responsable,Detalle_Presunto_Responsable,Abandono_Despodo_Tierras,Amenaza_Intimidación,Ataque_Mision_Medica,Confinamiento,Desplazamiento_Forzado,Extorsion,Lesionados_Civiles,Pillaje,Tortura,violencia_fisica,otro_hecho,victimas,armas
+106422,,1988,07,12,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Ruta,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,5,ND
+108305,,1988,07,12,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Ruta,Grupo Paramilitar,Otro,1,1,0,0,1,0,0,0,2,,,5,Arma de Fuego - Objeto Contundente
+114972,,1988,11,05,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Interceptación,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+126828,,1982,10,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,1,0,0,0,0,0,1,7,,,7,ND
+138992,,1990,06,08,81220,CRAVO NORTE,ARAUCA,LLANOS ORIENTALES,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,1,0,,,4,Arma de Fuego
+146874,,1990,11,17,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Resistencia a la Retención,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+162360,,1989,11,10,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+162668,,1991,06,30,23855,VALENCIA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,1,0,0,1,0,0,0,2,,,4,Arma de Fuego
+163072,,1986,08,03,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Ruta,Guerrilla,FARC,0,1,0,0,1,0,0,0,0,,,4,Arma de Fuego
+184609,,1988,04,19,50573,PUERTO LÓPEZ,META,ALTILLANURA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,1,0,0,1,0,1,0,0,,,4,Arma de Fuego
+218398,,1989,11,13,20011,AGUACHICA,CESAR,MAGDALENA MEDIO,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,0,0,0,,,4,ND
+288320,,1985,10,20,19743,SILVIA,CAUCA,NORTE DEL CAUCA,Retención/Ejecución,Guerrilla,Quintín Lame,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288321,,1988,12,30,19137,CALDONO,CAUCA,NORTE DEL CAUCA,Retención/Ejecución,Guerrilla,Quintín Lame,0,0,0,0,0,0,0,0,0,,,6,ND
+288603,,1981,00,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288604,,1981,01,06,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288605,,1981,01,10,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288606,,1981,01,11,68001,BUCARAMANGA,SANTANDER,PROVINCIA DE SOTO,Ataque Indiscriminado,Agente del Estado,Policía Nacional,0,0,0,0,0,0,4,0,0,,,4,Arma de Fuego
+288607,,1981,01,15,66001,PEREIRA,RISARALDA,EJE CAFETERO,Desconocida,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,7,Arma de Fuego
+288608,,1981,01,16,50330,MESETAS,META,ARIARI GUAYABERO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288609,,1981,01,24,85430,TRINIDAD,CASANARE,LLANOS ORIENTALES,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+288610,,1981,02,05,19698,SANTANDER DE QUILICHAO,CAUCA,NORTE DEL CAUCA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+288611,,1981,03,09,54398,LA PLAYA,NORTE DE SANTANDER,CATATUMBO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288612,,1981,03,15,68320,GUADALUPE,SANTANDER,PROVINCIA COMUNERA,Ruta,Guerrilla,FARC,0,1,0,0,0,0,0,1,0,,,10,Arma de Fuego
+288613,,1981,03,18,19364,JAMBALÓ,CAUCA,NORTE DEL CAUCA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+288614,,1981,03,27,18247,EL DONCELLO,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Retención/Ejecución,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288615,,1981,07,15,18094,BELÉN DE LOS ANDAQUÍES,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Falso Positivo,Agente del Estado,Ejército Nacional,0,1,0,0,0,0,0,0,1,,,5,Arma Corto Punzante - Arma de Fuego - Objeto Contundente
+288616,,1981,10,00,05000,SIN INFORMACION,ANTIOQUIA,,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288617,,1981,10,12,05480,MUTATÁ,ANTIOQUIA,URABA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288618,,1981,10,19,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288619,,1981,10,19,05154,CAUCASIA,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288620,,1981,10,23,05756,SONSÓN,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288621,,1981,10,25,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Atentado,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,4,0,0,,,4,Arma de Fuego - Artefacto Explosivo
+288622,,1981,11,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288623,,1981,12,05,18785,SOLITA,CAQUETÁ,AMAZONIA SUR-ORIENTAL,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288624,,1981,12,12,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,1,,,12,Arma de Fuego
+288625,,1982,01,06,13670,SAN PABLO,BOLÍVAR,MAGDALENA MEDIO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288626,,1982,01,08,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288627,,1982,01,22,19137,CALDONO,CAUCA,NORTE DEL CAUCA,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,7,0,0,,,4,Arma de Fuego
+288628,,1982,03,24,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288629,,1982,04,02,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,1,1,,,6,Arma de Fuego
+288630,,1982,04,18,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288631,,1982,05,29,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,Ocultamiento de Cadaver,9,ND
+288632,,1982,06,14,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,14,Arma de Fuego
+288633,,1982,06,15,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,9,Arma Corto Punzante - Arma de Fuego
+288634,,1982,06,25,68101,BOLÍVAR,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288635,,1982,07,18,05604,REMEDIOS,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288637,,1982,07,29,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288638,CR004904,1982,08,05,05031,AMALFI,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Incursión,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,8,,,8,Arma Corto Punzante - Arma de Fuego
+288639,,1982,08,24,05495,NECHÍ,ANTIOQUIA,LA MOJANA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288640,,1982,08,20,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288641,,1982,09,17,05197,COCORNÁ,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288642,,1982,10,11,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288643,,1982,10,15,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Incursión,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,1,1,,Ocultamiento de cadáver,7,Arma de Fuego
+288644,,1982,10,19,19364,JAMBALÓ,CAUCA,NORTE DEL CAUCA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288645,,1982,10,25,68101,BOLÍVAR,SANTANDER,MAGDALENA MEDIO,Ataque Indiscriminado,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego - Artefacto Explosivo
+288646,,1982,11,08,05837,TURBO,ANTIOQUIA,URABA,Desconocida,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288647,,1982,11,09,05659,SAN JUAN DE URABÁ,ANTIOQUIA,URABA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288648,,1982,11,19,19364,JAMBALÓ,CAUCA,NORTE DEL CAUCA,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+288649,,1983,01,03,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288650,,1983,01,03,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,4,ND
+288651,,1983,02,02,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288654,,1983,02,11,68655,SABANA DE TORRES,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,11,,,11,Arma de Fuego
+288655,,1983,02,13,95015,CALAMAR,GUAVIARE,ARIARI GUAYABERO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+288656,,1983,02,21,19142,CALOTO,CAUCA,NORTE DEL CAUCA,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288657,,1983,03,01,05042,SANTA FÉ DE ANTIOQUIA,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,ND
+288658,,1983,03,17,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,2,,,4,Arma de Fuego
+288659,,1983,04,05,15507,OTANCHE,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288660,,1983,04,08,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288661,,1983,04,18,23855,VALENCIA,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+288662,,1983,04,25,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288663,,1983,04,27,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288664,,1983,05,11,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,4,ND
+288665,,1983,05,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288666,,1983,05,18,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288667,,1983,05,20,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288668,,1983,05,23,05591,PUERTO TRIUNFO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288669,,1983,05,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,1,0,,,5,Arma de Fuego
+288671,,1983,06,17,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,9,ND
+288673,,1983,06,18,15507,OTANCHE,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Reunión Pública,Grupo Armado No Dirimido,No Aplica,0,0,0,0,1,0,0,0,6,,,7,Arma Corto Punzante - Arma de Fuego
+288674,,1983,06,19,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288676,CR004911,1983,06,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Agente del Estado - Grupo Paramilitar,No Aplica,1,1,0,0,0,0,0,0,0,,Ocultamiento de Cadáver,4,Arma de Fuego
+288677,,1983,06,23,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288678,,1983,07,07,05631,SABANETA,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+288679,CR004912,1983,07,09,05690,SANTO DOMINGO,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma Corto Punzante
+288680,,1983,07,09,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,12,ND
+288681,,1983,07,13,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,12,Arma de Fuego
+288683,,1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,8,,,8,Arma de Fuego
+288684,,1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Otro,0,1,0,0,0,0,0,0,0,,,8,ND
+288686,,1983,07,26,05480,MUTATÁ,ANTIOQUIA,URABA,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma Corto Punzante - Arma de Fuego
+288688,,1983,08,08,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Falso Positivo,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,0,,,16,Arma de Fuego
+288689,,1983,08,16,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288690,,1983,08,29,20013,AGUSTÍN CODAZZI,CESAR,SERRANIA DEL PERIJA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288691,,1983,09,01,05591,PUERTO TRIUNFO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,4,ND
+288692,CR2017288692,1983,10,02,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288693,,1983,10,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,7,Arma de Fuego
+288694,,1983,11,15,19743,SILVIA,CAUCA,NORTE DEL CAUCA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,1,0,,,4,ND
+288695,,1983,12,18,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288696,,1984,00,00,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,ND
+288697,,1984,01,04,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Objeto Contundente
+288698,,1984,01,12,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,1,0,0,0,1,,,8,Arma Corto Punzante - Arma de Fuego
+288699,CR018847,1984,01,12,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,1,0,0,0,1,,,4,ND
+288700,,1984,01,15,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288701,,1984,01,22,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Asalto,Agente del Estado - Grupo Paramilitar,No Aplica,0,1,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288703,,1984,02,06,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,4,Arma Corto Punzante
+288704,,1984,02,07,05113,BURITICÁ,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Retén,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288705,,1984,02,07,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Ruta,Guerrilla,FARC,0,1,0,0,0,0,0,0,7,,,11,Arma Corto Punzante - Arma de Fuego
+288706,,1984,02,14,68385,LANDÁZURI,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288707,,1984,02,14,76275,FLORIDA,VALLE DEL CAUCA,SUR DEL VALLE,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288708,,1984,02,18,17616,RISARALDA,CALDAS,EJE CAFETERO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288709,,1984,02,25,54003,ÁBREGO,NORTE DE SANTANDER,PROVINCIA DE RICAURTE,Interceptación,Desconocido,No Aplica,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+288710,,1984,03,18,23660,SAHAGÚN,CÓRDOBA,NORTE DE CORDOBA,Asalto,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288711,,1984,03,20,68655,SABANA DE TORRES,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,1,1,0,0,1,0,0,0,0,,,4,Arma de Fuego
+288712,,1984,03,24,05837,TURBO,ANTIOQUIA,URABA,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,3,0,0,,,8,Arma Corto Punzante - Arma de Fuego
+288713,CR016256,1984,04,05,19212,CORINTO,CAUCA,NORTE DEL CAUCA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Artefacto Explosivo
+288714,,1984,04,16,05837,TURBO,ANTIOQUIA,URABA,Incursión,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288715,,1984,04,28,17380,LA DORADA,CALDAS,MAGDALENA MEDIO,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,1,0,0,1,0,0,1,1,,,4,ND
+288716,,1984,05,01,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288717,,1984,05,04,47960,ZAPAYÁN,MAGDALENA,CIENAGA GRANDE DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma Corto Punzante - Arma de Fuego
+288718,,1984,05,13,05045,APARTADÓ,ANTIOQUIA,URABA,Incursión,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288719,,1984,05,21,05591,PUERTO TRIUNFO,ANTIOQUIA,MAGDALENA MEDIO,Incursión,Guerrilla,FARC,0,1,0,0,0,0,1,0,0,,,4,Arma de Fuego
+288720,CR004921,1984,05,24,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,1,0,,,8,Arma de Fuego
+288721,,1984,06,09,81065,ARAUQUITA,ARAUCA,SARARE,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288722,,1984,06,23,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Interceptación,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,1,0,0,0,,,5,Arma de Fuego
+288723,,1984,07,11,68689,SAN VICENTE DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,1,0,0,1,0,0,0,0,,,9,Arma de Fuego
+288724,,1984,07,17,05250,EL BAGRE,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Incursión,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288725,,1984,08,10,19517,PÁEZ,CAUCA,NORTE DEL CAUCA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288726,CR004924,1984,09,01,41551,PITALITO,HUILA,SUR DEL HUILA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288727,CR000020,1984,09,18,50689,SAN MARTÍN,META,PIEDEMONTE LLANERO,Incursión,Agente del Estado,Ejército Nacional - Policía Nacional,0,1,0,0,0,0,0,1,0,,,4,Arma de Fuego
+288728,CR004928,1984,10,19,68271,FLORIÁN,SANTANDER,PROVINCIA DE VELEZ,Retén,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288729,,1984,11,02,20045,BECERRIL,CESAR,SERRANIA DEL PERIJA,Interceptación,Guerrilla,FARC,0,1,0,0,1,0,0,1,0,,,4,Arma de Fuego
+288730,,1984,11,18,20400,LA JAGUA DE IBIRICO,CESAR,SERRANIA DEL PERIJA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,1,0,0,0,5,0,0,,,6,Arma de Fuego
+288731,,1984,11,18,20400,LA JAGUA DE IBIRICO,CESAR,SERRANIA DEL PERIJA,Ataque Indiscriminado,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288732,,1984,12,15,13074,BARRANCO DE LOBA,BOLÍVAR,SUR DE BOLIVAR,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288733,,1984,12,18,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288734,,1984,12,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288735,,1985,01,03,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288736,,1985,01,10,13670,SAN PABLO,BOLÍVAR,MAGDALENA MEDIO,Incursión,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288737,,1985,02,27,05250,EL BAGRE,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Ataque Indiscriminado,Agente del Estado,Policía Nacional,0,0,0,0,0,0,2,0,0,,,5,Arma de Fuego
+288738,,1985,02,28,19212,CORINTO,CAUCA,NORTE DEL CAUCA,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288739,,1985,03,05,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,4,ND
+288740,CR013199,1986,04,14,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,1,0,,,4,Arma de Fuego
+288741,,1985,03,29,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288742,CR004942,1985,04,12,81300,FORTUL,ARAUCA,SARARE,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),1,1,0,0,1,0,0,1,1,,,4,Arma de Fuego
+288743,,1985,04,25,68368,JESÚS MARÍA,SANTANDER,PROVINCIA DE VELEZ,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288744,,1985,05,03,54800,TEORAMA,NORTE DE SANTANDER,CATATUMBO,Asalto,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288745,,1985,05,07,19355,INZÁ,CAUCA,NORTE DEL CAUCA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288746,,1985,05,10,19100,BOLÍVAR,CAUCA,PATIA,Desconocida,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288747,,1985,05,15,05361,ITUANGO,ANTIOQUIA,NORTE DE ANTIOQUIA,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288748,,1985,05,25,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288750,,1985,06,12,05138,CAÑASGORDAS,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Asalto,Desconocido,No Aplica,0,0,0,0,1,0,0,0,0,,,4,Arma de Fuego
+288751,,1985,06,20,86568,PUERTO ASÍS,PUTUMAYO,BAJO PUTUMAYO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288752,,1985,06,24,68324,GUAVATÁ,SANTANDER,PROVINCIA DE VELEZ,Retención/Ejecución,Grupo Armado No Dirimido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288753,,1985,07,03,05790,TARAZÁ,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Interceptación,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288755,,1985,07,27,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,7,Arma Corto Punzante
+288756,,1985,07,28,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288757,,1985,07,29,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,7,ND
+288758,,1985,08,05,20011,AGUACHICA,CESAR,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+288759,,1985,08,07,41020,ALGECIRAS,HUILA,CENTRO DEL HUILA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288761,,1985,08,13,19000,SIN INFORMACION,CAUCA,,Interceptación,Guerrilla,FARC,0,0,0,0,0,0,1,0,0,,,7,ND
+288762,,1985,09,14,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Ataque Indiscriminado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288763,,1985,09,30,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Persecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,1,0,,,11,Arma de Fuego
+288765,,1985,10,12,41530,PALESTINA,HUILA,SUR DEL HUILA,Asalto,Guerrilla,ELN,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288766,,1985,10,20,05837,TURBO,ANTIOQUIA,URABA,Ataque Indiscriminado,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288767,,1985,10,26,19821,TORIBÍO,CAUCA,NORTE DEL CAUCA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+288768,,1985,11,01,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288769,,1985,11,02,85250,PAZ DE ARIPORO,CASANARE,LLANOS ORIENTALES,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288770,,1985,11,02,20001,VALLEDUPAR,CESAR,SIERRA NEVADA DE SANTA MARTA,Ataque Indiscriminado,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288771,,1985,11,05,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,11,Arma de Fuego
+288772,,1985,11,13,54206,CONVENCIÓN,NORTE DE SANTANDER,CATATUMBO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288773,CR004975,1985,11,28,50006,ACACÍAS,META,PIEDEMONTE LLANERO,Asalto,Guerrilla,No Identificada,1,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+288774,CR004976,1985,11,30,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,2,0,0,,,5,Arma de Fuego - Artefacto Explosivo
+288775,,1985,12,01,05837,TURBO,ANTIOQUIA,URABA,Atentado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Artefacto Explosivo
+288777,,1985,12,02,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,17,0,0,,,13,ND
+288778,,1985,12,11,68385,LANDÁZURI,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,No Identificada,1,1,0,0,1,1,0,1,1,,,4,Arma de Fuego
+288779,,1985,12,15,54206,CONVENCIÓN,NORTE DE SANTANDER,CATATUMBO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,6,ND
+288780,CR023050,1985,12,20,99773,CUMARIBO,VICHADA,ALTILLANURA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+288781,,1985,12,22,19022,ALMAGUER,CAUCA,MACIZO COLOMBIANO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288782,,1985,12,23,25398,LA PEÑA,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Retención/Ejecución,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,5,0,5,,,5,Arma de Fuego
+288783,CR004981,1985,12,24,05250,EL BAGRE,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288784,,1986,01,15,20770,SAN MARTÍN,CESAR,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+288785,,1986,01,18,20001,VALLEDUPAR,CESAR,SIERRA NEVADA DE SANTA MARTA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288786,,1986,01,23,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,ND
+288787,,1986,01,31,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288788,,1986,03,02,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288791,,1986,03,15,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,5,,,5,Objeto Contundente - Uso de Químicos y Tóxicos
+288792,,1986,03,16,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Retención/Ejecución,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,1,0,1,,,5,Arma de Fuego
+288793,,1986,03,22,20011,AGUACHICA,CESAR,MAGDALENA MEDIO,Interceptación,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+288794,,1986,03,23,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288795,,1986,03,26,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+288796,,1986,03,27,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288798,CR004991,1986,04,11,19001,POPAYÁN,CAUCA,MACIZO COLOMBIANO,Asalto,Guerrilla,Quintín Lame,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+288799,,1986,04,12,05837,TURBO,ANTIOQUIA,URABA,Ruta,Guerrilla,EPL,0,0,0,0,0,1,3,0,0,,,6,Arma de Fuego
+288800,,1986,04,13,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Guerrilla,EPL,0,0,0,0,0,0,1,0,0,,,5,Arma de Fuego
+288802,,1986,04,20,05107,BRICEÑO,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Guerrilla,FARC,0,1,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288803,,1986,04,22,20032,ASTREA,CESAR,SERRANIA DEL PERIJA,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288804,,1986,04,24,20175,CHIMICHAGUA,CESAR,SERRANIA DEL PERIJA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,1,1,0,0,1,0,0,0,0,,,8,ND
+288806,,1986,04,28,81736,SARAVENA,ARAUCA,SARARE,Asalto,Agente del Estado,Policía Nacional,0,1,0,0,0,0,0,0,0,,,5,ND
+288807,,1986,04,30,81065,ARAUQUITA,ARAUCA,SARARE,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288809,,1986,05,04,86757,SAN MIGUEL,PUTUMAYO,BAJO PUTUMAYO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,9,ND
+288810,,1986,05,05,68255,EL PLAYÓN,SANTANDER,PROVINCIA DE SOTO,Asalto,Guerrilla,FARC,0,0,0,0,1,0,1,0,5,,,5,Arma de Fuego
+288811,,1986,05,14,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Guerrilla,FARC,0,0,0,0,1,0,0,0,0,,,4,Arma de Fuego
+288812,,1986,06,01,86568,PUERTO ASÍS,PUTUMAYO,BAJO PUTUMAYO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288814,,1986,06,12,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Sicariato,Guerrilla,No Identificada,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288815,,1986,06,13,05045,APARTADÓ,ANTIOQUIA,URABA,Atentado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288816,,1986,06,14,05837,TURBO,ANTIOQUIA,URABA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,8,ND
+288817,,1986,06,15,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288819,,1986,06,22,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,3,0,0,,,4,Arma de Fuego
+288820,,1986,06,22,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Agente del Estado,Ejército Nacional,0,1,0,0,0,0,6,0,0,,,4,Arma de Fuego
+288821,,1986,07,00,15507,OTANCHE,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Desconocida,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,4,0,2,,,5,ND
+288822,,1986,07,08,50000,SIN INFORMACION,META,SIN INFORMACION,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288825,,1986,08,11,05837,TURBO,ANTIOQUIA,URABA,Ataque Indiscriminado,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288826,,1986,08,18,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Sicariato,Grupo Paramilitar,Autodefensas de Hernán Giraldo,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288827,,1986,08,23,95001,SAN JOSÉ DEL GUAVIARE,GUAVIARE,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288828,,1986,08,31,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288830,,1986,09,18,05475,MURINDÓ,ANTIOQUIA,ATRATO,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288831,,1986,09,19,76111,GUADALAJARA DE BUGA,VALLE DEL CAUCA,CENTRO DEL VALLE,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,4,0,0,,,4,Arma de Fuego
+288834,,1986,10,06,20770,SAN MARTÍN,CESAR,MAGDALENA MEDIO,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma Corto Punzante - Arma de Fuego
+288835,,1986,10,23,05495,NECHÍ,ANTIOQUIA,LA MOJANA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+288836,,1986,11,22,50251,EL CASTILLO,META,ARIARI GUAYABERO,Retención/Ejecución,Grupo Armado No Dirimido,No Aplica,0,1,0,0,1,0,0,0,4,,,6,Arma Corto Punzante - Arma de Fuego - Uso de Químicos y Tóxicos
+288837,,1986,11,25,18001,FLORENCIA,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288840,,1986,12,11,05480,MUTATÁ,ANTIOQUIA,URABA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,25,0,0,,,6,Arma de Fuego
+288841,,1986,12,17,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Asalto,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288842,,1986,12,31,50226,CUMARAL,META,PIEDEMONTE LLANERO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+288843,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,12,ND
+288844,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,ND
+288845,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,ND
+288847,,1987,01,14,73624,ROVIRA,TOLIMA,SUR DEL TOLIMA,Asalto,Guerrilla,FARC,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego - Artefacto Explosivo
+288850,,1987,02,03,15442,MARIPÍ,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Asalto,Guerrilla,FARC,1,1,0,0,0,0,0,0,4,,Intento de Reclutamiento - Venta a bajo precio,4,Arma de Fuego
+288851,,1987,02,05,68207,CONCEPCIÓN,SANTANDER,PROVINCIA DE GARCIA ROVIRA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,5,,,7,Arma de Fuego
+288852,,1987,02,23,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288853,,1987,02,28,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+288854,,1987,03,08,18256,EL PAUJÍL,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Ruta,Guerrilla,FARC,0,0,0,0,0,0,1,0,0,,,5,Arma de Fuego
+288855,CR2017288855,1987,03,15,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,1,5,,Ocultamiento de Cadáver,12,Arma Corto Punzante - Arma de Fuego
+288856,,1987,03,22,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288857,,1987,04,10,68745,SIMACOTA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288858,CR2017126718,1987,04,14,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,1,,,13,Arma de Fuego
+288859,,1987,04,14,27073,BAGADÓ,CHOCÓ,ATRATO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,ND
+288860,,1987,04,23,85225,NUNCHÍA,CASANARE,PIEDEMONTE LLANERO,Ruta,Guerrilla,FARC,1,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288861,,1987,04,29,20770,SAN MARTÍN,CESAR,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288862,,1987,05,02,20770,SAN MARTÍN,CESAR,MAGDALENA MEDIO,Asalto,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288863,,1987,05,03,20238,EL COPEY,CESAR,SIERRA NEVADA DE SANTA MARTA,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+288865,,1987,05,15,27073,BAGADÓ,CHOCÓ,ATRATO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,26,ND
+288866,,1987,05,28,85430,TRINIDAD,CASANARE,LLANOS ORIENTALES,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,4,Arma Corto Punzante
+288867,,1987,06,20,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,0,,,6,ND
+288870,,1987,08,23,19001,POPAYÁN,CAUCA,MACIZO COLOMBIANO,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288871,,1987,08,31,68255,EL PLAYÓN,SANTANDER,PROVINCIA DE SOTO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288872,CR2017288872,1987,09,02,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Ruta,Grupo Paramilitar,Muerte a Secuestradores (MAS),1,0,0,0,1,0,0,0,0,,,7,Arma de Fuego
+288873,,1987,08,31,68406,LEBRIJA,SANTANDER,PROVINCIA DE SOTO,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,0,1,0,0,0,4,,,4,Arma de Fuego
+288874,,1987,09,19,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+288875,,1987,10,12,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,4,ND
+288876,,1987,10,12,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,1,1,0,0,1,0,0,0,1,,Venta a bajo precio,4,Arma de Fuego
+288877,,1987,10,19,68250,EL PEÑÓN,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,2,0,0,,,4,ND
+288878,,1987,10,20,85400,TÁMARA,CASANARE,PIEDEMONTE LLANERO,Desconocida,Guerrilla,FARC,0,1,0,0,0,0,0,0,0,,,4,ND
+288879,,1987,10,20,85400,TÁMARA,CASANARE,PIEDEMONTE LLANERO,Asalto,Guerrilla,No Identificada,0,1,0,0,0,0,0,0,0,,,5,Arma Corto Punzante - Arma de Fuego
+288880,,1987,10,26,41132,CAMPOALEGRE,HUILA,NORTE DEL HUILA,Retención/Ejecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+288881,,1987,11,01,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288882,,1987,11,24,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,2,0,0,,,5,Arma de Fuego
+288883,,1987,12,09,85125,HATO COROZAL,CASANARE,LLANOS ORIENTALES,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,1,0,,,4,Arma de Fuego
+288884,,1987,12,18,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288885,,1987,12,18,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,2,0,0,,,6,Arma de Fuego
+288886,,1987,12,25,73616,RIOBLANCO,TOLIMA,SUR DEL TOLIMA,Ruta,Guerrilla,FARC,0,1,0,0,0,1,0,0,0,,,6,Arma de Fuego
+288887,,1988,00,00,23855,VALENCIA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288888,,1988,01,11,13670,SAN PABLO,BOLÍVAR,MAGDALENA MEDIO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288889,,1988,01,13,13670,SAN PABLO,BOLÍVAR,MAGDALENA MEDIO,Ruta,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288890,,1988,01,19,05667,SAN RAFAEL,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288891,,1988,01,21,05756,SONSÓN,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Desconocida,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,6,ND
+288893,,1988,01,28,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288894,,1988,02,01,19364,JAMBALÓ,CAUCA,NORTE DEL CAUCA,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,9,ND
+288897,,1988,02,03,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288898,,1988,02,13,50573,PUERTO LÓPEZ,META,ALTILLANURA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288900,,1988,02,14,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Incursión,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,0,,,5,ND
+288901,,1988,02,16,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288902,,1988,02,17,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288903,,1988,02,18,85250,PAZ DE ARIPORO,CASANARE,LLANOS ORIENTALES,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,1,,,7,Arma de Fuego
+288904,,1988,02,19,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,12,Arma de Fuego
+288905,,1988,02,18,85250,PAZ DE ARIPORO,CASANARE,LLANOS ORIENTALES,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,3,,,7,Arma de Fuego
+288906,,1988,02,21,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Ataque Indiscriminado,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,Estigmatización/Señalamiento,17,Arma de Fuego
+288907,,1988,02,21,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,Ocultamiento de cuerpo,4,ND
+288908,,1988,02,24,20013,AGUSTÍN CODAZZI,CESAR,SERRANIA DEL PERIJA,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,ND
+288909,,1988,02,25,20001,VALLEDUPAR,CESAR,SIERRA NEVADA DE SANTA MARTA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288911,,1988,03,02,05172,CHIGORODÓ,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,6,Arma Corto Punzante - Arma de Fuego
+288913,,1988,03,04,05837,TURBO,ANTIOQUIA,URABA,Ruta,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,20,Arma de Fuego
+288914,,1988,03,08,23417,LORICA,CÓRDOBA,NORTE DE CORDOBA,Atentado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,2,0,0,,,5,Artefacto Explosivo
+288915,,1988,03,10,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,1,,,6,Arma de Fuego
+288916,,1988,03,18,50689,SAN MARTÍN,META,PIEDEMONTE LLANERO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288917,,1988,03,25,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,No Identificada,0,1,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288918,,1988,03,28,05045,APARTADÓ,ANTIOQUIA,URABA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288919,,1988,04,03,23079,BUENAVISTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Paramilitar,Otro,0,1,0,0,0,0,1,0,0,,,28,Arma de Fuego
+288920,,1988,04,04,85440,VILLANUEVA,CASANARE,PIEDEMONTE LLANERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288921,,1988,04,04,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,5,ND
+288922,CR020047,1988,04,11,05837,TURBO,ANTIOQUIA,URABA,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,9,,,23,Arma de Fuego
+288923,,1988,04,18,19622,ROSAS,CAUCA,MACIZO COLOMBIANO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,1,0,,,5,Arma de Fuego
+288925,,1988,04,19,68235,EL CARMEN DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Reunión Pública,Grupo Paramilitar,Otro,1,1,0,0,1,0,0,1,0,,,4,Arma de Fuego
+288927,,1988,04,24,20001,VALLEDUPAR,CESAR,SIERRA NEVADA DE SANTA MARTA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,7,Arma de Fuego
+288928,,1988,04,25,20570,PUEBLO BELLO,CESAR,SIERRA NEVADA DE SANTA MARTA,Incursión,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,10,ND
+288930,,1988,05,03,54261,EL ZULIA,NORTE DE SANTANDER,AREA METROPOLITANA DE CUCUTA,Atentado,Guerrilla,EPL,0,0,0,0,0,0,50,0,0,,,4,Artefacto Explosivo
+288931,,1988,05,12,68001,BUCARAMANGA,SANTANDER,PROVINCIA DE SOTO,Sicariato,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288932,,1988,05,18,05051,ARBOLETES,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288933,CR020051,1988,05,24,68689,SAN VICENTE DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Ataque Indiscriminado,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,20,0,0,,Retención arbitraria,5,Arma de Fuego
+288937,,1988,05,29,68689,SAN VICENTE DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,13,Arma de Fuego
+288938,,1988,06,03,85430,TRINIDAD,CASANARE,LLANOS ORIENTALES,Asalto,Grupo Armado No Dirimido,No Aplica,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288939,,1988,06,06,18094,BELÉN DE LOS ANDAQUÍES,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288940,,1988,06,07,05034,ANDES,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,5,,,5,Arma Corto Punzante - Arma de Fuego
+288941,,1988,06,10,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Desconocida,Desconocido,No Aplica,0,1,0,0,0,0,0,0,0,,,15,ND
+288943,CR037073,1988,06,18,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Armado No Identificado,No Aplica,1,0,0,0,1,0,1,0,0,,,7,ND
+288946,,1988,06,21,05847,URRAO,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Sicariato,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,0,,Venta a bajo precio,4,Arma de Fuego
+288947,,1988,06,30,47551,PIVIJAY,MAGDALENA,CIENAGA GRANDE DE SANTA MARTA,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Objeto Contundente
+288948,CR020059,1988,07,02,68235,EL CARMEN DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Artefacto Explosivo
+288949,,1988,07,03,50251,EL CASTILLO,META,ARIARI GUAYABERO,Atentado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,17,Arma de Fuego
+288951,,1988,07,04,15507,OTANCHE,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Retén,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,11,Arma de Fuego
+288952,,1988,07,07,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Grupo Paramilitar,Los Tangueros,1,0,0,0,1,0,0,0,0,,,4,ND
+288953,CR2017288953,1988,07,16,13810,TIQUISIO,BOLÍVAR,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,1,0,1,0,0,0,1,0,,,5,Arma Corto Punzante - Arma de Fuego
+288954,CR020063,1988,07,20,68689,SAN VICENTE DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,1,1,0,0,1,0,0,1,0,,,15,Arma de Fuego - Artefacto Explosivo
+288955,,1988,07,22,73675,SAN ANTONIO,TOLIMA,SUR DEL TOLIMA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288956,,1988,07,22,23466,MONTELÍBANO,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+288958,,1988,07,24,05837,TURBO,ANTIOQUIA,URABA,Asalto,Guerrilla,FARC,0,1,0,0,0,0,0,0,0,,,4,ND
+288959,,1988,07,27,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288960,,1988,08,07,94001,INÍRIDA,GUAINÍA,AMAZONIA SUR-ORIENTAL,Sicariato,Agente Extranjero,Venezolano,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288961,CR021619,1988,08,07,94001,INÍRIDA,GUAINÍA,AMAZONIA SUR-ORIENTAL,Atentado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288962,,1988,08,10,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288963,,1988,08,12,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,15,0,0,,,4,Arma de Fuego
+288964,,1988,08,20,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288965,,1988,08,22,23570,PUEBLO NUEVO,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288966,,1988,08,30,50573,PUERTO LÓPEZ,META,ALTILLANURA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288967,CR020066,1988,08,30,23090,CANALETE,CÓRDOBA,NORTE DE CORDOBA,Incursión,Grupo Paramilitar,Otro,1,0,0,0,1,0,15,0,0,,,16,Arma de Fuego - Material Incendiario
+288968,,1988,09,09,23670,SAN ANDRÉS DE SOTAVENTO,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288969,,1988,09,13,19256,EL TAMBO,CAUCA,NORTE DEL CAUCA,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+288970,,1988,09,15,68255,EL PLAYÓN,SANTANDER,PROVINCIA DE SOTO,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288971,,1988,09,16,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Ruta,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288972,,1988,09,26,63594,QUIMBAYA,QUINDIO,EJE CAFETERO,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288973,,1988,09,30,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288974,,1988,10,06,19517,PÁEZ,CAUCA,NORTE DEL CAUCA,Desconocida,Guerrilla,Quintín Lame,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288975,,1988,10,09,68745,SIMACOTA,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+288976,,1988,10,10,68745,SIMACOTA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288978,,1988,10,29,EXVEN,FRONTERA VENEZUELA,EXTERIOR,,Desconocida,Agente Extranjero,Venezolano,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288979,CR028044,1988,11,01,23574,PUERTO ESCONDIDO,CÓRDOBA,NORTE DE CORDOBA,Interceptación,Desconocido,No Aplica,0,0,0,0,0,0,0,1,0,,,4,ND
+288980,,1988,11,06,50251,EL CASTILLO,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288981,,1988,11,08,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+288983,,1988,11,13,23419,LOS CÓRDOBAS,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288984,,1988,11,13,05376,LA CEJA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288985,,1988,11,17,41396,LA PLATA,HUILA,SUR DEL HUILA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288986,,1988,11,18,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288988,CR113018,1988,11,25,23090,CANALETE,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,0,,,5,Artefacto Explosivo
+288989,,1988,11,27,20710,SAN ALBERTO,CESAR,MAGDALENA MEDIO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288990,,1988,12,03,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,5,ND
+288991,,1988,12,04,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288993,,1988,12,05,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Sicariato,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288995,,1988,12,11,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+288997,,1988,12,15,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+288998,,1988,12,16,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+288999,,1988,12,20,19532,PATÍA,CAUCA,PATIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289000,,1988,12,20,17777,SUPÍA,CALDAS,EJE CAFETERO,Asalto,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289001,,1988,12,30,05120,CÁCERES,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289002,,1988,12,30,05120,CÁCERES,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Desconocida,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,5,ND
+289003,,1989,01,04,50573,PUERTO LÓPEZ,META,ALTILLANURA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289004,,1989,01,04,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,Objeto Contundente
+289005,,1989,01,07,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,15,Arma de Fuego
+289007,,1989,01,10,05045,APARTADÓ,ANTIOQUIA,URABA,Retención/Ejecución,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289008,,1989,01,13,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289009,,1989,01,18,68745,SIMACOTA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,3,0,12,,,12,Arma de Fuego
+289011,,1989,01,28,05088,BELLO,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,0,,,4,ND
+289012,,1989,01,29,68575,PUERTO WILCHES,SANTANDER,MAGDALENA MEDIO,Incursión,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289013,,1989,02,01,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,No Identificado,1,0,0,0,0,0,0,0,0,,,4,ND
+289014,,1989,01,26,68745,SIMACOTA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,6,,,6,Arma de Fuego
+289015,,1989,02,04,73555,PLANADAS,TOLIMA,SUR DEL TOLIMA,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,6,0,0,,,4,ND
+289016,CR020083,1989,02,08,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Paramilitar,Otro,0,1,0,0,1,0,0,0,0,,Daño a bien civil,6,Arma de Fuego - Material Incendiario
+289018,CR2017289018,1989,02,11,13430,MAGANGUÉ,BOLÍVAR,SUR DE BOLIVAR,Ataque Indiscriminado,Guerrilla,ELN,0,0,0,0,1,0,12,0,0,,Accion belica,5,Arma de Fuego
+289019,,1989,02,11,70265,GUARANDA,SUCRE,LA MOJANA,Interceptación,Guerrilla,ELN,0,0,0,0,0,0,14,0,0,,,5,Arma de Fuego - Artefacto Explosivo
+289020,,1989,02,15,66594,QUINCHÍA,RISARALDA,EJE CAFETERO,Retención/Ejecución,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,4,,,4,Arma de Fuego
+289021,CR010124,1989,02,18,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Desconocida,Desconocido,No Aplica,1,0,0,0,1,0,1,0,0,,,4,Arma de Fuego
+289022,,1989,02,27,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289024,,1989,03,12,05604,REMEDIOS,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Incursión,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289026,,1989,03,18,66594,QUINCHÍA,RISARALDA,EJE CAFETERO,Incursión,Guerrilla,EPL,0,0,0,0,0,0,0,0,1,,,4,ND
+289027,,1989,03,19,25530,PARATEBUENO,CUNDINAMARCA,PIEDEMONTE LLANERO,Ataque Indiscriminado,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289028,,1989,03,26,20032,ASTREA,CESAR,SERRANIA DEL PERIJA,Ataque Indiscriminado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289030,,1989,03,27,73555,PLANADAS,TOLIMA,SUR DEL TOLIMA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,7,ND
+289031,,1989,04,05,68689,SAN VICENTE DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Reunión Pública,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289032,,1989,04,07,50573,PUERTO LÓPEZ,META,ALTILLANURA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289033,,1989,04,17,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289034,,1989,04,20,18753,SAN VICENTE DEL CAGUÁN,CAQUETÁ,CAGUAN,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,ND
+289035,,1989,04,21,18610,SAN JOSÉ DEL FRAGUA,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+289036,,1989,04,22,13074,BARRANCO DE LOBA,BOLÍVAR,SUR DE BOLIVAR,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,2-Ocultamiento de cadáver,5,ND
+289037,,1989,04,28,15442,MARIPÍ,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Incursión,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289039,,1989,05,25,68655,SABANA DE TORRES,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,ELN,1,0,0,0,1,0,0,0,0,,,4,ND
+289041,,1989,06,01,76863,VERSALLES,VALLE DEL CAUCA,NORTE DEL VALLE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,5,ND
+289042,,1989,06,05,20621,LA PAZ,CESAR,SERRANIA DEL PERIJA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289043,,1989,06,13,13244,EL CARMEN DE BOLÍVAR,BOLÍVAR,MONTES DE MARIA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,0,,,4,Arma de Fuego
+289044,,1989,06,16,50683,SAN JUAN DE ARAMA,META,ARIARI GUAYABERO,Atentado,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,6,Artefacto Explosivo
+289046,,1989,06,24,15531,PAUNA,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,4,ND
+289047,,1989,06,24,15531,PAUNA,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Incursión,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,ND
+289048,,1989,06,24,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,1,0,0,1,0,,,5,ND
+289049,,1989,06,28,41298,GARZÓN,HUILA,SUR DEL HUILA,Asalto,Grupo Armado No Identificado,No Aplica,1,0,0,0,1,0,2,0,0,,Venta a bajo precio,4,Arma de Fuego
+289050,,1989,07,08,50683,SAN JUAN DE ARAMA,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289051,CR020104,1989,07,21,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,ND
+289052,,1989,07,22,19130,CAJIBÍO,CAUCA,NORTE DEL CAUCA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289053,,1989,07,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289055,,1989,07,24,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289056,,1989,07,25,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Ataque Indiscriminado,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,6,Artefacto Explosivo
+289058,,1989,07,28,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,0,1,0,,Venta de precio a bajo costo,4,ND
+289059,,1989,07,31,52256,EL ROSARIO,NARIÑO,PATIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289060,,1989,08,01,54003,ÁBREGO,NORTE DE SANTANDER,PROVINCIA DE RICAURTE,Asalto,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289061,,1989,08,06,54810,TIBÚ,NORTE DE SANTANDER,CATATUMBO,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289062,,1989,08,12,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ruta,Grupo Paramilitar,Los Tangueros,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289063,CR035183,1989,08,13,44430,MAICAO,LA GUAJIRA,ALTA GUAJIRA,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+289064,,1989,08,15,81794,TAME,ARAUCA,SARARE,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289065,,1989,08,11,18460,MILÁN,CAQUETÁ,FLORENCIA Y AREA DE INFLUENCIA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,ND
+289066,,1989,08,19,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289067,,1989,08,19,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+289068,,1989,08,19,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,1,0,,,5,Arma de Fuego
+289069,,1989,08,27,68773,SUCRE,SANTANDER,PROVINCIA DE VELEZ,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,10,Arma de Fuego
+289070,,1989,08,29,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Sicariato,Desconocido,No Aplica,1,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289072,,1989,09,10,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Interceptación,Grupo Paramilitar,Otro,0,1,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289074,,1989,09,16,20614,RÍO DE ORO,CESAR,SUR DE CESAR,Retención/Ejecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289075,,1989,09,24,54109,BUCARASICA,NORTE DE SANTANDER,CATATUMBO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289076,,1989,10,03,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+289078,CR044122,1989,10,19,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Interceptación,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289079,,1989,10,28,95001,SAN JOSÉ DEL GUAVIARE,GUAVIARE,ARIARI GUAYABERO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289080,,1989,10,29,23079,BUENAVISTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289081,,1989,11,01,25258,EL PEÑÓN,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+289082,,1989,11,04,50568,PUERTO GAITÁN,META,ALTILLANURA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289083,,1989,08,05,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,ELN,0,1,0,0,0,0,0,0,0,,Corte de Energía Eléctrica,4,Arma de Fuego - Objeto Contundente
+289085,,1989,11,06,66594,QUINCHÍA,RISARALDA,EJE CAFETERO,Atentado,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,6,Artefacto Explosivo
+289086,,1989,11,08,19585,PURACÉ,CAUCA,MACIZO COLOMBIANO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289087,,1989,11,08,66594,QUINCHÍA,RISARALDA,EJE CAFETERO,Asalto,Guerrilla,EPL,0,1,0,0,1,1,1,0,0,,,5,Arma de Fuego - Artefacto Explosivo
+289088,,1989,11,07,85410,TAURAMENA,CASANARE,PIEDEMONTE LLANERO,Retención/Ejecución,Grupo Paramilitar,Autodefensas Campesinas del Casanare (Buitragueños),0,0,0,0,0,0,0,0,4,,,6,Arma de Fuego
+289090,CR020116,1989,11,13,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,6,Artefacto Explosivo
+289092,,1989,11,26,50330,MESETAS,META,ARIARI GUAYABERO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,4,,,5,Arma Corto Punzante - Arma de Fuego
+289093,,1989,11,26,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Paramilitar,Los Tangueros,1,1,0,0,1,0,1,0,2,,,12,Arma de Fuego
+289095,,1989,11,27,50001,VILLAVICENCIO,META,PIEDEMONTE LLANERO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma Corto Punzante
+289096,,1989,12,07,81736,SARAVENA,ARAUCA,SARARE,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,ND
+289098,,1989,12,16,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Sicariato,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289099,,1989,12,17,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289100,,1989,12,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Interceptación,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,3,0,0,,,5,Arma de Fuego
+289101,,1989,12,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,3,0,0,,,5,ND
+289102,CR2017289102,1988,12,20,17777,SUPÍA,CALDAS,EJE CAFETERO,Asalto,Guerrilla,EPL,1,1,0,0,1,0,0,1,0,,,8,Arma de Fuego
+289103,,1989,12,21,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Retención/Ejecución,Desconocido,No Aplica,0,0,0,0,0,0,0,0,4,,,4,ND
+289104,,1989,12,23,05642,SALGAR,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289105,,1989,12,23,05642,SALGAR,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289106,,1989,12,24,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,1,0,,,5,ND
+289107,,1989,12,29,05234,DABEIBA,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289108,,1990,00,00,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+289109,,1990,01,04,19100,BOLÍVAR,CAUCA,PATIA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289110,CR2017289110,1990,01,08,54003,ÁBREGO,NORTE DE SANTANDER,PROVINCIA DE RICAURTE,Interceptación,Guerrilla,ELN,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego - Artefacto Explosivo
+289112,,1990,01,07,05490,NECOCLÍ,ANTIOQUIA,URABA,Asalto,Guerrilla,EPL,0,0,0,0,0,0,13,0,0,,,6,Arma de Fuego
+289113,,1990,01,07,05490,NECOCLÍ,ANTIOQUIA,URABA,Ataque Indiscriminado,Grupo Armado No Identificado,Presencia GAO sin Atribución,1,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289114,,1990,01,13,20013,AGUSTÍN CODAZZI,CESAR,SERRANIA DEL PERIJA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,5,ND
+289115,,1990,01,17,25394,LA PALMA,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289116,,1990,01,20,05310,GÓMEZ PLATA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,13,ND
+289118,,1990,01,28,23670,SAN ANDRÉS DE SOTAVENTO,CÓRDOBA,NORTE DE CORDOBA,Retención/Ejecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+289119,,1990,02,06,50330,MESETAS,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,0,,,5,Arma de Fuego
+289120,,1990,02,07,25335,GUAYABETAL,CUNDINAMARCA,ALTIPLANO CUNDIBOYACENSE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289121,,1990,02,08,23090,CANALETE,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289122,,1990,02,08,23090,CANALETE,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Paramilitar,Los Tangueros,0,0,0,0,1,0,0,0,0,,,4,Arma de Fuego
+289123,,1990,02,10,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289124,,1990,02,10,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,17,0,0,,,8,Arma de Fuego
+289125,CR2017289125,1990,02,18,05051,ARBOLETES,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,Los Tangueros,0,0,0,0,1,0,0,0,0,,,12,Arma de Fuego
+289126,CR021622,1990,02,17,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,4,0,1,,Venta a bajo precio,8,Arma de Fuego
+289127,,1990,02,17,05051,ARBOLETES,ANTIOQUIA,URABA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,0,,,6,ND
+289128,CR042121,1990,02,18,05051,ARBOLETES,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,1,0,0,1,0,0,0,0,,,12,Arma Corto Punzante - Arma de Fuego
+289129,,1990,02,22,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289130,,1990,02,23,50251,EL CASTILLO,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289131,,1990,02,24,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ataque Indiscriminado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,5,0,0,,,6,Arma de Fuego
+289132,,1990,02,26,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289133,,1990,02,27,27800,UNGUÍA,CHOCÓ,URABA,Retención/Ejecución,Grupo Paramilitar,Otro,0,1,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289135,,1990,03,27,05172,CHIGORODÓ,ANTIOQUIA,URABA,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,ND
+289136,,1990,03,18,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289137,,1990,03,19,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,5,0,0,,,6,Arma de Fuego
+289138,,1990,03,22,05490,NECOCLÍ,ANTIOQUIA,URABA,Ruta,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,8,Arma Corto Punzante - Arma de Fuego
+289139,,1990,03,23,76828,TRUJILLO,VALLE DEL CAUCA,CENTRO DEL VALLE,Asalto,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289140,,1990,03,27,81220,CRAVO NORTE,ARAUCA,LLANOS ORIENTALES,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289141,CR020140,1990,02,10,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,4,,,4,Arma Corto Punzante
+289142,CR021624,1990,03,29,05893,YONDÓ,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289143,,1990,03,29,05665,SAN PEDRO DE URABÁ,ANTIOQUIA,URABA,Ruta,Agente del Estado - Grupo Paramilitar,No Aplica,0,1,0,0,1,0,0,1,1,,,8,Arma Corto Punzante
+289145,,1990,04,18,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+289146,,1990,04,22,23678,SAN CARLOS,CÓRDOBA,NORTE DE CORDOBA,Incursión,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+289147,,1990,04,24,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,5,0,1,,,6,Arma de Fuego
+289148,,1990,04,24,19022,ALMAGUER,CAUCA,MACIZO COLOMBIANO,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289149,,1990,05,03,95001,SAN JOSÉ DEL GUAVIARE,GUAVIARE,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,13,Arma Corto Punzante - Arma de Fuego
+289150,,1990,05,05,54128,CÁCHIRA,NORTE DE SANTANDER,PROVINCIA DE RICAURTE,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289151,,1990,05,09,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289152,CR020152,1990,05,12,86865,VALLE DEL GUAMUEZ,PUTUMAYO,BAJO PUTUMAYO,Asalto,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,0,0,0,,Asesinato selectivo,9,Arma de Fuego
+289153,,1990,05,12,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289154,,1990,05,18,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,5,0,0,,,6,Arma de Fuego
+289155,,1990,05,20,85139,MANÍ,CASANARE,LLANOS ORIENTALES,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,Intento de reclutamiento,4,Arma de Fuego
+289156,,1990,05,22,54520,PAMPLONITA,NORTE DE SANTANDER,SUROCCIDENTE DE NORTE DE SANTANDER,Ataque Indiscriminado,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289157,,1990,05,27,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,4,0,0,,,5,Arma de Fuego
+289158,,1990,05,29,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289159,,1990,06,06,05134,CAMPAMENTO,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego - Artefacto Explosivo
+289160,,1990,06,07,68425,MACARAVITA,SANTANDER,PROVINCIA DE GARCIA ROVIRA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,13,Arma de Fuego
+289161,CR020155,1990,06,14,20400,LA JAGUA DE IBIRICO,CESAR,SERRANIA DEL PERIJA,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+289162,,1990,06,14,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289163,,1990,06,16,05088,BELLO,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289164,,1990,06,20,13810,TIQUISIO,BOLÍVAR,MAGDALENA MEDIO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289165,,1990,06,21,05854,VALDIVIA,ANTIOQUIA,NORTE DE ANTIOQUIA,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,5,Arma de Fuego
+289167,,1990,06,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289168,,1990,06,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289169,,1990,06,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289170,,1990,06,24,05172,CHIGORODÓ,ANTIOQUIA,URABA,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289171,,1990,06,27,05197,COCORNÁ,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289172,,1990,07,01,19698,SANTANDER DE QUILICHAO,CAUCA,NORTE DEL CAUCA,Asalto,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,0,,,5,ND
+289173,,1990,07,09,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Persecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289174,,1990,07,10,19698,SANTANDER DE QUILICHAO,CAUCA,NORTE DEL CAUCA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289175,,1990,07,11,76100,BOLÍVAR,VALLE DEL CAUCA,CENTRO DEL VALLE,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289176,,1990,07,14,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,2,0,0,,,7,ND
+289177,,1990,07,15,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289178,,1990,07,17,54003,ÁBREGO,NORTE DE SANTANDER,PROVINCIA DE RICAURTE,Asalto,Guerrilla,ELN,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289179,,1990,07,18,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289180,,1990,07,25,50006,ACACÍAS,META,PIEDEMONTE LLANERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289181,,1990,07,25,50680,SAN CARLOS DE GUAROA,META,PIEDEMONTE LLANERO,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,0,0,1,,,5,Arma de Fuego
+289182,,1990,07,27,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289183,,1990,07,29,05615,RIONEGRO,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289185,,1990,08,16,41396,LA PLATA,HUILA,SUR DEL HUILA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289186,,1990,08,16,05315,GUADALUPE,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,Intento de Reclutamiento,5,Arma de Fuego
+289187,,1990,08,16,05315,GUADALUPE,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289188,,1990,08,18,05315,GUADALUPE,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289189,,1990,08,22,68235,EL CARMEN DE CHUCURÍ,SANTANDER,MAGDALENA MEDIO,Desconocida,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289190,,1990,08,25,50313,GRANADA,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289191,,1990,08,26,73483,NATAGAIMA,TOLIMA,SUR DEL TOLIMA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,10,ND
+289192,,1990,09,01,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289193,,1990,09,05,05837,TURBO,ANTIOQUIA,URABA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,Arma Corto Punzante - Arma de Fuego
+289194,,1990,09,08,13549,PINILLOS,BOLÍVAR,SUR DE BOLIVAR,Incursión,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289195,,1990,09,09,52699,SANTACRUZ,NARIÑO,OCCIDENTE DE NARIÑO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289196,,1990,09,11,25518,PAIME,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Asalto,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,0,,,7,Arma de Fuego
+289197,,1990,09,18,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289199,,1990,09,30,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Atentado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,4,0,0,,,4,Arma de Fuego - Artefacto Explosivo
+289200,,1990,10,02,86320,ORITO,PUTUMAYO,BAJO PUTUMAYO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289201,,1990,10,03,85410,TAURAMENA,CASANARE,PIEDEMONTE LLANERO,Asalto,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,3,0,0,,,9,Arma de Fuego
+289202,,1990,10,05,05051,ARBOLETES,ANTIOQUIA,URABA,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289203,,1990,10,05,05051,ARBOLETES,ANTIOQUIA,URABA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,12,ND
+289204,,1990,10,10,47245,EL BANCO,MAGDALENA,SUR DE MAGDALENA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289205,,1990,10,13,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,7,0,0,,,7,Arma de Fuego
+289206,,1990,10,22,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289207,,1990,10,22,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,1,0,0,0,1,0,0,0,0,,,8,Arma de Fuego
+289208,,1990,10,25,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,11,Arma Corto Punzante - Arma de Fuego
+289212,CR038060,1990,10,27,15507,OTANCHE,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Asalto,Guerrilla,FARC,0,1,0,0,1,0,0,0,0,,Tierra a bajo precio,4,Arma de Fuego
+289213,,1990,10,31,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Interceptación,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289214,,1990,11,05,76616,RIOFRÍO,VALLE DEL CAUCA,CENTRO DEL VALLE,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,3,0,0,,,5,Arma de Fuego
+289215,,1990,11,09,05591,PUERTO TRIUNFO,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,1,0,0,0,0,,,8,Arma de Fuego
+289216,,1990,11,10,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego - Material Incendiario
+289217,,1990,11,11,05045,APARTADÓ,ANTIOQUIA,URABA,Ataque Indiscriminado,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,11,Arma de Fuego
+289218,,1990,11,15,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289220,,1990,11,18,86568,PUERTO ASÍS,PUTUMAYO,BAJO PUTUMAYO,Interceptación,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289221,,1990,11,30,23182,CHINÚ,CÓRDOBA,NORTE DE CORDOBA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289222,,1990,12,02,05376,LA CEJA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Ataque Indiscriminado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289223,,1990,12,04,05045,APARTADÓ,ANTIOQUIA,URABA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,2,0,0,,,6,Arma de Fuego
+289224,,1990,12,07,68655,SABANA DE TORRES,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,5,,,7,Arma de Fuego
+289225,,1990,12,12,05021,ALEJANDRÍA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Asalto,Agente del Estado,Policía Nacional,0,0,0,1,0,0,0,0,7,,,5,Arma de Fuego
+289226,,1990,12,14,95001,SAN JOSÉ DEL GUAVIARE,GUAVIARE,ARIARI GUAYABERO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289229,,1990,12,15,76100,BOLÍVAR,VALLE DEL CAUCA,CENTRO DEL VALLE,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289230,,1990,12,21,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,1,,,5,ND
+289231,,1990,12,21,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289232,,1990,12,21,23001,MONTERÍA,CÓRDOBA,ALTO SINU Y SAN JORGE,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289233,,1990,12,21,23672,SAN ANTERO,CÓRDOBA,NORTE DE CORDOBA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+289234,,1990,12,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Sicariato,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289235,,1990,12,25,23466,MONTELÍBANO,CÓRDOBA,ALTO SINU Y SAN JORGE,Sicariato,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289236,,1990,12,31,50683,SAN JUAN DE ARAMA,META,ARIARI GUAYABERO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289237,,1990,12,31,73504,ORTEGA,TOLIMA,SUR DEL TOLIMA,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289240,,1991,01,03,73168,CHAPARRAL,TOLIMA,SUR DEL TOLIMA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289241,,1991,01,04,05690,SANTO DOMINGO,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+289242,,1991,01,13,05034,ANDES,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Retén,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289243,,1991,01,21,20011,AGUACHICA,CESAR,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Bloque Central Bolívar,0,0,0,0,0,1,0,0,0,,,8,ND
+289244,,1991,01,23,86001,MOCOA,PUTUMAYO,MEDIO PUTUMAYO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,6,,,7,Arma de Fuego
+289245,,1991,01,27,70508,OVEJAS,SUCRE,MONTES DE MARIA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289246,,1991,01,31,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retén,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,10,Arma de Fuego
+289248,,1991,02,01,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289249,,1991,02,01,05615,RIONEGRO,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289250,,1991,02,04,05212,COPACABANA,ANTIOQUIA,VALLE DE ABURRA,Atentado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,4,0,0,,,8,Artefacto Explosivo
+289251,,1991,02,07,86568,PUERTO ASÍS,PUTUMAYO,BAJO PUTUMAYO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,11,Arma Corto Punzante - Arma de Fuego
+289252,CR042133,1991,02,07,05664,SAN PEDRO DE LOS MILAGROS,ANTIOQUIA,NORTE DE ANTIOQUIA,Ruta,Grupo Paramilitar,No Identificado,1,1,0,0,1,0,0,0,0,,,7,Arma de Fuego
+289253,,1991,02,10,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,4,ND
+289254,,1991,02,19,68679,SAN GIL,SANTANDER,PROVINCIA DE GUANENTA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289255,,1991,02,20,25320,GUADUAS,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+289256,,1991,02,20,05138,CAÑASGORDAS,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+289257,,1991,02,20,25320,GUADUAS,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289258,CR020199,1991,02,22,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Falso Positivo,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,1,,,7,Arma de Fuego
+289259,,1991,02,22,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289260,,1991,02,22,73563,PRADO,TOLIMA,SUR DEL TOLIMA,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+289261,,1991,02,24,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,7,0,0,,,6,Arma de Fuego
+289262,,1991,02,24,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+289263,,1991,02,26,15135,CAMPOHERMOSO,BOYACÁ,ORIENTE DE BOYACA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,9,,,9,Arma de Fuego
+289264,,1991,02,25,15299,GARAGOA,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Ruta,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,5,,,5,Arma de Fuego
+289265,,1991,02,26,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,12,Arma de Fuego
+289266,,1991,03,07,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289267,,1991,03,11,15047,AQUITANIA,BOYACÁ,ORIENTE DE BOYACA,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289268,CR2017289268,1991,03,11,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Falso Positivo,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,4,,,4,Arma de Fuego
+289269,,1991,03,12,15047,AQUITANIA,BOYACÁ,ORIENTE DE BOYACA,Desconocida,Agente del Estado,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+289270,,1991,03,16,25258,EL PEÑÓN,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Asalto,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289271,,1991,04,02,81065,ARAUQUITA,ARAUCA,SARARE,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289272,CR020205,1991,04,07,19100,BOLÍVAR,CAUCA,PATIA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,17,Arma de Fuego
+289275,,1991,04,11,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289276,,1991,04,12,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289277,,1991,04,12,25754,SOACHA,CUNDINAMARCA,AREA METROPOLITANA DE BOGOTA,Retención/Ejecución,Desconocido,No Aplica,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+289278,,1991,04,18,05088,BELLO,ANTIOQUIA,VALLE DE ABURRA,Asalto,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289279,,1991,04,19,85430,TRINIDAD,CASANARE,LLANOS ORIENTALES,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+289280,,1991,06,18,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289281,CR017079,1991,04,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Otro ¿Cuál?,No Aplica,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+289282,,1991,04,25,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289283,,1991,04,25,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+289284,,1991,04,26,20710,SAN ALBERTO,CESAR,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Autodefensas Campesinas del Sur del Cesar,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289285,,1991,05,10,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289286,,1991,05,11,50400,LEJANÍAS,META,ARIARI GUAYABERO,Ataque Indiscriminado,Guerrilla,FARC,0,0,0,0,0,0,4,0,0,,,4,Arma de Fuego
+289288,,1991,05,11,05150,CAROLINA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289289,,1991,05,11,05150,CAROLINA,ANTIOQUIA,NORTE DE ANTIOQUIA,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289290,CR020207,1991,05,15,19455,MIRANDA,CAUCA,NORTE DEL CAUCA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289291,,1991,05,17,05212,COPACABANA,ANTIOQUIA,VALLE DE ABURRA,Asalto,Desconocido,No Aplica,0,1,0,0,1,0,0,0,0,,,6,Arma de Fuego
+289292,,1991,05,21,05376,LA CEJA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,6,ND
+289294,,1991,05,23,05088,BELLO,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,1,0,0,,,9,Arma de Fuego
+289295,CR115045,1991,05,23,05088,BELLO,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+289296,,1991,05,31,25862,VERGARA,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289300,,1991,06,19,19364,JAMBALÓ,CAUCA,NORTE DEL CAUCA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,3,0,1,,,5,Arma de Fuego
+289301,CR113003,1991,06,19,70678,SAN BENITO ABAD,SUCRE,SAN JORGE (CESAR),Interceptación,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego - Artefacto Explosivo
+289302,,1991,06,23,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Guerrilla,ELN,0,0,0,0,0,0,2,0,0,,,5,Arma de Fuego
+289303,,1991,06,24,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Desconocida,Guerrilla,ELN,0,0,0,0,0,0,5,0,0,,,13,ND
+289304,,1991,06,24,05034,ANDES,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+289305,,1991,06,26,76520,PALMIRA,VALLE DEL CAUCA,SUR DEL VALLE,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+289307,,1991,07,22,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,2,0,0,,,5,Arma de Fuego
+289308,,1991,07,25,52835,SAN ANDRÉS DE TUMACO,NARIÑO,ANDEN PACIFICO SUR,Retención/Ejecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289309,,1991,07,28,05138,CAÑASGORDAS,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Interceptación,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289310,,1991,08,04,68573,PUERTO PARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289311,,1991,08,08,68001,BUCARAMANGA,SANTANDER,PROVINCIA DE SOTO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+289312,,1991,08,10,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+289314,,1991,08,13,50313,GRANADA,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289315,,1991,08,16,20045,BECERRIL,CESAR,SERRANIA DEL PERIJA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,7,,,7,ND
+289316,,1991,08,18,25290,FUSAGASUGÁ,CUNDINAMARCA,SUMAPAZ,Asalto,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289317,,1990,08,19,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Asalto,Agente del Estado,Policía Nacional,0,1,0,0,0,0,0,1,0,,,6,Arma de Fuego
+289318,,1991,08,19,20045,BECERRIL,CESAR,SERRANIA DEL PERIJA,Reunión Pública,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+289319,,1991,08,21,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Atentado,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,7,Artefacto Explosivo
+289320,,1991,08,26,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Retén,Guerrilla,ELN,0,0,0,0,0,0,3,0,0,,,4,Arma de Fuego
+289321,,1991,08,26,73168,CHAPARRAL,TOLIMA,SUR DEL TOLIMA,Sicariato,Guerrilla,FARC,1,1,0,0,1,0,1,0,0,,Intento de Reclutamiento,10,Arma de Fuego - Artefacto Explosivo
+289322,,1991,09,02,19256,EL TAMBO,CAUCA,NORTE DEL CAUCA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289325,,1991,09,06,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,7,0,0,,,7,Arma de Fuego
+289327,,1991,09,11,13670,SAN PABLO,BOLÍVAR,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+289328,,1991,09,12,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289330,,1991,09,13,20238,EL COPEY,CESAR,SIERRA NEVADA DE SANTA MARTA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,1,0,,,4,Arma de Fuego
+289331,,1991,09,13,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289332,,1991,09,13,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,9,ND
+289333,,1991,09,14,50330,MESETAS,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289334,,1991,09,14,41872,VILLAVIEJA,HUILA,NORTE DEL HUILA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289336,,1991,09,18,50568,PUERTO GAITÁN,META,ALTILLANURA,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,1,,,5,Arma de Fuego
+289337,,1991,09,22,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+289338,,1991,09,27,05030,AMAGÁ,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289339,,1991,09,27,05129,CALDAS,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+289340,,1991,09,30,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Ataque Indiscriminado,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+289341,,1991,09,30,19130,CAJIBÍO,CAUCA,NORTE DEL CAUCA,Atentado,Guerrilla,FARC,0,0,0,0,0,0,2,0,1,,,7,Arma de Fuego
+289342,,1991,09,30,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Sicariato,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,9,ND
+289343,,1991,09,30,05031,AMALFI,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Desconocida,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289344,,1991,10,06,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+289345,CR020219,1991,10,07,19809,TIMBIQUÍ,CAUCA,ANDEN PACIFICO SUR,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289346,,1991,10,09,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289347,,1991,10,11,85250,PAZ DE ARIPORO,CASANARE,LLANOS ORIENTALES,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,3,0,0,,,4,Arma de Fuego
+289348,,1991,10,12,19698,SANTANDER DE QUILICHAO,CAUCA,NORTE DEL CAUCA,Retención/Ejecución,Guerrilla,FARC,0,1,0,0,0,0,0,0,0,,,7,ND
+289349,,1991,10,20,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Desconocida,Grupo Paramilitar,No Identificado,0,1,0,0,1,0,0,0,0,,,7,ND
+289350,CR021890,1991,10,22,05197,COCORNÁ,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289351,,1991,10,27,50400,LEJANÍAS,META,ARIARI GUAYABERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289352,,1991,10,27,05376,LA CEJA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+289353,,1991,11,05,13001,CARTAGENA DE INDIAS,BOLÍVAR,CANAL DEL DIQUE,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289354,,1991,11,06,76275,FLORIDA,VALLE DEL CAUCA,SUR DEL VALLE,Asalto,Guerrilla,FARC,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+289355,,1991,11,13,54001,CÚCUTA,NORTE DE SANTANDER,AREA METROPOLITANA DE CUCUTA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289356,,1991,11,16,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,5,Arma de Fuego
+289357,,1991,11,20,05490,NECOCLÍ,ANTIOQUIA,URABA,Retención/Ejecución,Grupo Armado No Identificado,Presencia GAO sin Atribución,1,1,0,0,1,0,0,0,3,,,5,Arma de Fuego
+289358,,1991,11,21,66687,SANTUARIO,RISARALDA,EJE CAFETERO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+289360,,1991,11,22,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,1,0,0,0,,,4,Arma de Fuego
+289361,,1991,11,25,15542,PESCA,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+289363,,1991,11,28,47980,ZONA BANANERA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289365,,1991,12,01,23182,CHINÚ,CÓRDOBA,NORTE DE CORDOBA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289368,,1991,12,10,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289370,CR020230,1991,12,16,19142,CALOTO,CAUCA,NORTE DEL CAUCA,Incursión,Grupo Armado No Identificado,No Aplica,0,1,0,0,0,0,0,0,20,,,20,Arma de Fuego
+289371,,1991,12,18,50683,SAN JUAN DE ARAMA,META,ARIARI GUAYABERO,Reunión Pública,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+289372,,1991,12,19,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,No Identificada,0,0,0,1,0,0,0,0,0,,,5,Arma de Fuego
+289374,,1991,12,21,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Asalto,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+289376,,1991,12,23,05591,PUERTO TRIUNFO,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+290266,,1988,07,24,05837,TURBO,ANTIOQUIA,URABA,Asalto,Guerrilla,FARC,0,1,0,0,1,0,0,0,0,,,4,ND
+290287,,1988,08,23,52399,LA UNIÓN,NARIÑO,NORTE DE NARIÑO,Interceptación,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+395493,,1987,12,05,23574,PUERTO ESCONDIDO,CÓRDOBA,NORTE DE CORDOBA,Ruta,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+396481,,1981,05,11,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Ataque Indiscriminado,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego - Artefacto Explosivo
+439239,,1989,08,14,44430,MAICAO,LA GUAJIRA,ALTA GUAJIRA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,1,0,0,0,0,,,9,Arma de Fuego
+439240,CR008551,1988,08,23,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Incursión,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+439241,CR008554,1990,03,01,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Desconocido,No Aplica,0,1,0,0,1,0,0,1,0,,,4,ND
+439251,,1991,08,24,05679,SANTA BÁRBARA,ANTIOQUIA,SUROESTE ANTIOQUEÑO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+439254,,1989,04,04,05045,APARTADÓ,ANTIOQUIA,URABA,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,4,,,4,ND
+439258,,1990,01,18,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,0,,,7,ND
+439266,CR030146,1991,03,06,23079,BUENAVISTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,1,0,0,1,0,0,0,0,,,9,ND
+439273,,1988,05,15,05790,TARAZÁ,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,0,0,0,,,5,ND
+439287,,1989,03,25,47692,SAN SEBASTIÁN DE BUENAVISTA,MAGDALENA,SUR DE MAGDALENA,Desconocida,Guerrilla,No Identificada,0,0,0,0,0,0,1,0,0,,,4,Arma de Fuego
+439320,,1990,11,22,44650,SAN JUAN DEL CESAR,LA GUAJIRA,SIERRA NEVADA DE SANTA MARTA,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Objeto Contundente
+439326,,1987,06,00,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,4,0,0,,,10,Arma de Fuego
+439327,,1985,06,00,76001,CALI,VALLE DEL CAUCA,SUR DEL VALLE,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,18,ND
+439332,,1986,09,20,68000,SIN INFORMACION,SANTANDER,,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,ND
+439339,,1988,08,03,70708,SAN MARCOS,SUCRE,SAN JORGE (CESAR),Sicariato,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+439342,,1991,12,24,13244,EL CARMEN DE BOLÍVAR,BOLÍVAR,MONTES DE MARIA,Retención/Ejecución,Grupo Paramilitar,No Identificado,1,0,0,0,1,0,0,0,4,,,4,Arma Corto Punzante - Arma de Fuego
+439349,,1991,01,21,05120,CÁCERES,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,Ocultamiento de Cadáver,6,ND
+439365,,1990,09,15,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Reunión Pública,Guerrilla,FARC,0,1,0,0,0,1,0,0,0,,,4,Arma de Fuego
+439367,,1984,00,00,50568,PUERTO GAITÁN,META,ALTILLANURA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+439368,,1989,12,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,5,ND
+439369,,1989,12,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,ND
+439370,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,12,ND
+439371,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,ND
+439372,,1987,01,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,ND
+439373,,1982,05,29,15572,PUERTO BOYACÁ,BOYACÁ,MAGDALENA MEDIO,Desconocida,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,9,ND
+439374,,1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,8,ND
+439375,,1981,10,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,5,ND
+439376,,1986,12,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,11,ND
+439377,,1987,12,00,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,5,ND
+439399,,1991,07,25,52835,SAN ANDRÉS DE TUMACO,NARIÑO,ANDEN PACIFICO SUR,Retención/Ejecución,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439430,CR004907,1983,02,05,68720,SANTA HELENA DEL OPÓN,SANTANDER,MAGDALENA MEDIO,Ruta,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,1,0,0,0,1,,Ocultamiento de Cadáver,14,Arma de Fuego
+439431,,1983,06,18,05585,PUERTO NARE,ANTIOQUIA,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439432,,1983,07,22,05837,TURBO,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+439433,,1983,08,04,05604,REMEDIOS,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Ruta,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,1,1,1,,,22,Arma Corto Punzante - Arma de Fuego
+439434,,1985,07,10,68895,ZAPATOCA,SANTANDER,SERRANIA DE LOS YARIGUIES,Incursión,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439435,CR004964,1985,10,05,19517,PÁEZ,CAUCA,NORTE DEL CAUCA,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439436,CR004987,1986,03,05,68573,PUERTO PARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,1,0,0,1,0,6,0,3,,,8,Arma de Fuego
+439437,,1986,06,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,0,4,0,0,,,9,Arma de Fuego - Artefacto Explosivo
+439438,,1988,08,09,47001,SANTA MARTA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Ataque Indiscriminado,Grupo Paramilitar,Autodefensas de Hernán Giraldo,0,0,0,0,0,0,0,0,0,,,5,Arma de Fuego
+439439,CR020001,1986,09,15,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,1,0,0,,,8,Arma de Fuego
+439440,,1986,12,05,68385,LANDÁZURI,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+439442,,1987,08,11,68615,RIONEGRO,SANTANDER,MAGDALENA MEDIO,Asalto,Guerrilla,FARC,0,0,0,0,0,1,0,0,0,,,5,Arma de Fuego
+439443,,1988,11,24,95001,SAN JOSÉ DEL GUAVIARE,GUAVIARE,ARIARI GUAYABERO,Ruta,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,0,1,,,4,ND
+439444,,1988,02,02,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Citación,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,1,0,0,,,6,Arma de Fuego
+439445,,1988,02,28,47288,FUNDACIÓN,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+439446,,1988,05,27,50001,VILLAVICENCIO,META,PIEDEMONTE LLANERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439447,,1988,05,28,50001,VILLAVICENCIO,META,PIEDEMONTE LLANERO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,ND
+439448,,1988,06,18,68081,BARRANCABERMEJA,SANTANDER,MAGDALENA MEDIO,Asalto,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439449,,1988,11,11,05736,SEGOVIA,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Incursión,Grupo Paramilitar,Autodefensas Campesinas del Magdalena Medio,0,0,0,0,0,0,60,0,0,,,46,Arma de Fuego
+439450,,1989,01,20,25099,BOJACÁ,CUNDINAMARCA,ALTIPLANO CUNDIBOYACENSE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+439451,,1989,02,08,15480,MUZO,BOYACÁ,ALTIPLANO CUNDIBOYACENSE,Retén,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,1,0,,,5,Arma de Fuego
+439452,,1989,02,28,05670,SAN ROQUE,ANTIOQUIA,NORDESTE ANTIOQUEÑO,Ruta,Grupo Paramilitar,No Identificado,0,1,0,0,0,0,0,1,0,,,8,Arma de Fuego
+439453,,1989,03,26,47692,SAN SEBASTIÁN DE BUENAVISTA,MAGDALENA,SUR DE MAGDALENA,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,4,ND
+439454,,1989,05,24,05051,ARBOLETES,ANTIOQUIA,URABA,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+439455,,1989,06,18,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Retención/Ejecución,Agente del Estado,Policía Nacional,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+439456,,1989,09,10,25394,LA PALMA,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Retención/Ejecución,Guerrilla,FARC,1,1,0,0,1,0,0,0,0,,,6,ND
+439457,,1989,11,22,73168,CHAPARRAL,TOLIMA,SUR DEL TOLIMA,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+439458,,1989,12,14,68307,GIRÓN,SANTANDER,PROVINCIA DE SOTO,Retención/Ejecución,Grupo Armado No Dirimido,No Aplica,0,0,0,0,0,1,0,0,0,,,4,Arma de Fuego
+439459,,1990,04,12,05790,TARAZÁ,ANTIOQUIA,BAJO CAUCA ANTIOQUEÑO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,ND
+439460,,1990,06,21,05376,LA CEJA,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+439461,,1990,10,25,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Incursión,Grupo Paramilitar,Los Tangueros,0,0,0,0,0,0,0,0,0,,,12,ND
+439462,,1990,10,25,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,11,ND
+439463,,1990,10,25,23807,TIERRALTA,CÓRDOBA,ALTO SINU Y SAN JORGE,Ruta,Grupo Armado No Identificado,No Aplica,0,0,0,0,0,0,0,0,0,,,11,ND
+439464,,1991,04,10,50711,VISTAHERMOSA,META,ARIARI GUAYABERO,Asalto,Grupo Armado No Identificado,No Aplica,0,0,0,0,1,0,0,0,1,,Venta de precio a bajo costo - Intento de ocultamiento de cadáver,4,Arma Corto Punzante
+439465,,1991,06,07,13657,SAN JUAN NEPOMUCENO,BOLÍVAR,MONTES DE MARIA,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,7,Arma de Fuego
+439466,,1991,06,08,13440,MARGARITA,BOLÍVAR,SUR DE BOLIVAR,Asalto,Grupo Paramilitar,Otro,0,0,0,0,0,0,2,0,0,,,4,Arma de Fuego
+439467,,1991,09,06,05001,MEDELLÍN,ANTIOQUIA,VALLE DE ABURRA,Ataque Indiscriminado,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+439468,,1991,09,11,47189,CIÉNAGA,MAGDALENA,SIERRA NEVADA DE SANTA MARTA,Ruta,Grupo Paramilitar,Otro,0,1,0,0,0,0,0,1,5,,,5,Arma Corto Punzante - Arma de Fuego
+439469,,1991,11,21,68444,MATANZA,SANTANDER,PROVINCIA DE SOTO,Retención/Ejecución,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,7,,,7,Arma de Fuego
+439470,,1991,12,09,23580,PUERTO LIBERTADOR,CÓRDOBA,ALTO SINU Y SAN JORGE,Retención/Ejecución,Grupo Paramilitar,Los Tangueros,0,0,0,0,0,0,0,0,0,,,7,ND
+4986,,1991,01,23,86001,MOCOA,PUTUMAYO,MEDIO PUTUMAYO,Falso Positivo,Agente del Estado,Ejército Nacional - Policía Nacional,0,0,0,0,0,0,0,0,0,,,7,Arma de Fuego
+510997,,1985,11,07,19212,CORINTO,CAUCA,NORTE DEL CAUCA,Persecución,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,4,,,4,ND
+511322,,1984,03,23,05045,APARTADÓ,ANTIOQUIA,URABA,Incursión,Guerrilla,EPL,0,0,0,0,0,0,0,0,0,,,8,Arma de Fuego
+533580,,1991,02,28,86320,ORITO,PUTUMAYO,BAJO PUTUMAYO,Retención/Ejecución,Guerrilla,FARC,0,0,0,0,0,0,0,0,2,,,4,ND
+554662,,1986,06,07,76001,CALI,VALLE DEL CAUCA,SUR DEL VALLE,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,19,ND
+555178,,1987,02,00,68397,LA PAZ,SANTANDER,PROVINCIA DE VELEZ,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,10,ND
+576851,,1981,01,07,05579,PUERTO BERRÍO,ANTIOQUIA,MAGDALENA MEDIO,Desconocida,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,Estigmatización,5,ND
+577015,,1982,12,07,05284,FRONTINO,ANTIOQUIA,OCCIDENTE ANTIOQUEÑO,Desconocida,Desconocido,No Aplica,0,0,0,0,0,0,0,0,0,,,10,ND
+577043,,1987,09,14,25885,YACOPÍ,CUNDINAMARCA,MAGDALENA MEDIO,Reunión Pública,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,8,Arma Corto Punzante
+577081,,1983,07,19,05000,SIN INFORMACION,ANTIOQUIA,,Incursión,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+577230,,1985,05,27,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Armado No Identificado,Presencia GAO sin Atribución,0,0,0,0,0,0,0,0,0,,,4,ND
+577312,,1986,03,26,05045,APARTADÓ,ANTIOQUIA,URABA,Desconocida,Guerrilla,No identificada,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+577350,,1982,05,21,05480,MUTATÁ,ANTIOQUIA,URABA,Incursión,Guerrilla,FARC/EPL,0,0,0,0,0,0,0,0,0,,Estigmatización,4,Arma de Fuego
+577355,,1987,08,17,05495,NECHÍ,ANTIOQUIA,LA MOJANA,Desconocida,Guerrilla,ELN,0,0,0,0,0,0,0,0,0,,,4,ND
+577969,,1987,08,08,05197,COCORNÁ,ANTIOQUIA,ORIENTE ANTIOQUEÑO,Retención/Ejecución,Guerrilla,Coordinadora Nacional Guerrillera,0,1,0,0,0,0,0,0,0,,,5,Arma de Fuego
+649062,,1981,05,24,68397,LA PAZ,SANTANDER,PROVINCIA DE VELEZ,Ruta,Guerrilla,FARC,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+649067,,1982,09,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,1,0,0,0,0,0,0,0,4,,,4,Asfixia Mecánica
+78639,,1985,11,20,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",AREA METROPOLITANA DE BOGOTA,Sicariato,Agente del Estado,Ejército Nacional,0,0,0,0,0,0,0,0,0,,,4,Arma de Fuego
+89395,CR000018,1984,01,25,19142,CALOTO,CAUCA,NORTE DEL CAUCA,Asalto,Agente del Estado,Policía Nacional,0,0,0,0,0,0,37,0,0,,,10,Arma de Fuego - Otro
+99901,,1988,10,23,25258,EL PEÑÓN,CUNDINAMARCA,NOROCCIDENTE DE CUNDINAMARCA,Retención/Ejecución,Guerrilla,FARC,0,1,0,0,1,0,0,0,5,,,5,Arma de Fuego

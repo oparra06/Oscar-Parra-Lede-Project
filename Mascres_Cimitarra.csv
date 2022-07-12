@@ -1,0 +1,20 @@
+ID_Caso,id_mes,anho,mes,dia,DANE_municipio,Municipio,Departamento,Region,Modalidad,Presunto_Responsable,Detalle_Presunto_Responsable,Abandono_Despodo_Tierras,Amenaza_Intimidación,Ataque_Mision_Medica,Confinamiento,Desplazamiento_Forzado,Extorsion,Lesionados_Civiles,Pillaje,Tortura,violencia_fisica,otro_hecho,victimas,armas
+126828,10,October of 1982,10,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,1,0,0,0,0,0,1,7,,,7,ND
+288637,7,July of 1982,07,29,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288640,8,Agoust of 1982,08,20,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288651,14,Febrary of 1983,02,02,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,4,Arma de Fuego
+288662,16,April of 1983,04,25,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288663,16,April of 1983,04,27,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,6,Arma de Fuego
+288664,17,May of 1983,05,11,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,4,ND
+288665,17,May of 1983,05,17,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Asalto,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,9,Arma de Fuego
+288667,17,May of 1983,05,20,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288669,17,May of 1984,05,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,1,0,,,5,Arma de Fuego
+288674,18,June of 1983,06,19,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,Muerte a Secuestradores (MAS),0,0,0,0,0,0,0,0,0,,,5,ND
+288676,18,June of 1983,06,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Incursión,Agente del Estado - Grupo Paramilitar,No Aplica,1,1,0,0,0,0,0,0,0,,Ocultamiento de Cadáver,4,Arma de Fuego
+288681,19,July of 1983,07,13,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,1,,,12,Arma de Fuego
+288683,19,July of 1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Otro,0,0,0,0,0,0,0,0,8,,,8,Arma de Fuego
+288684,19,July of 1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,Otro,0,1,0,0,0,0,0,0,0,,,8,ND
+288688,20,August of 1983,08,08,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Falso Positivo,Agente del Estado - Grupo Paramilitar,No Aplica,0,0,0,0,0,0,0,0,0,,,16,Arma de Fuego
+288693,22,October of 1983,10,24,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Ruta,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,1,0,0,,,7,Arma de Fuego
+439374,19,July of 1983,07,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Desconocida,Grupo Paramilitar,No Identificado,0,0,0,0,0,0,0,0,0,,,8,ND
+649067,9,September of 1982,09,21,68190,CIMITARRA,SANTANDER,MAGDALENA MEDIO,Retención/Ejecución,Guerrilla,FARC,1,0,0,0,0,0,0,0,4,,,4,Asfixia Mecánica
